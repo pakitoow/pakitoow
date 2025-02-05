@@ -15,7 +15,7 @@
     --bg-color: #ffffff;
     --second-bg-color: #dbd8d8;
     --text-color: #000000;
-    --main-color: rgb(73, 196, 212);
+    --main-color: rgb(200, 73, 212);
 }
 
 
@@ -308,7 +308,7 @@ span{
 
 .services-container .services-box{
     flex: 1 1 30rem;
-    background: linear-gradient(90deg, rgb(182, 239, 240) 9%, rgba(213,217,233,1) 61%, rgb(197, 235, 243) 100%);
+    background: linear-gradient(90deg, rgb(199, 163, 214) 9%, rgb(255, 141, 164) 61%, rgb(247, 182, 226) 100%);
     padding: 3rem 2rem 4rem;
     border-radius: 2rem;
     text-align: center;
